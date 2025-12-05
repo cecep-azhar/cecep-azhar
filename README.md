@@ -1,71 +1,77 @@
 <div align="center">
 
-# 👋 Halo! Saya [Nama Kamu], Developer Full-Stack yang Suka Bikin Hal Keren
+# 👋 Halo! Saya Cecep Azhar
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical&hide_border=true)
+**Software Engineer @ Perusahaan Alat Kesehatan – Bandung**  
+Spesialis Camera Endoscopee dengan **C# • .NET • WinUI 3** di hari kerja  
+Full **Next.js Mode** tiap Sabtu - malam Mingguan di @fathfroce
+**Minggu = 100% keluarga**: istri + 5 anak ❤️
 
-**Apa yang saya lakukan?**  
-Saya [deskripsi singkat, misal: "membangun aplikasi web scalable dengan React & Node.js, sambil ngopi dan dengerin lo-fi beats"]. Sudah bantu [jumlah project atau pengalaman, misal: "10+ startup"] tumbuh dari ide jadi produk nyata. Selalu penasaran dengan AI, blockchain, dan desain UI yang bikin orang betah scroll.  
+<img src="https://github.com/cecepazhar/cecepazhar/blob/main/assets/banner.jpg?raw=true" alt="Cecep Azhar" width="100%"/>
 
-📍 **Base di [Kota/Kota, misal: Jakarta]** | 🌍 **Open for remote kolab** | 💬 **DM anytime!**
-
-![Snake animation](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
+![GitHub followers](https://img.shields.io/github/followers/cecepazhar?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=cecepazhar&label=Profile+views&color=0e75b6&style=flat)
 
 </div>
 
-## 🚀 Skill Set
+## ⏰ Jadwal Hidup Saya (Real Life Version)
 
-| Frontend                  | Backend                    | Tools & Others             |
-|---------------------------|----------------------------|----------------------------|
-| React, Next.js, Vue.js    | Node.js, Express, Python   | Docker, Git, AWS, Figma    |
-| TypeScript, Tailwind CSS  | PostgreSQL, MongoDB        | CI/CD, Jest, Vercel        |
-| HTML5, CSS3, SASS         | REST API, GraphQL          | Agile, TDD                 |
+| Hari         | Aktivitas Utama                                      | Status Ngoding?       |
+|--------------|-----------------------------------------------------|-----------------------|
+| Senin–Jumat  | Kantor: bikin software rumah sakit & alat endoscope | C# full power         |
+| **Sabtu malam**  | Kopi + lo-fi + Next.js → bikin project bermanfaat   | 🔥 Commit streak on   |
+| **Minggu**       | Kumpul bareng istri & 5 anak, main, healing | ❌ Laptop ditutup rapat |
 
-**Bahasa:**  
-🇮🇩 Bahasa Indonesia (Native) | 🇺🇸 English (Fluent) | 🇯🇵 Japanese (Basic)
+> Minggu adalah hari buat keluarga. No laptop, no deadline, no notification. Hanya tawa anak-anak dan senyum istri ❤️
 
-## 🔥 Project Favorit
+## 🛠 Tech Stack
 
-- **[Nama Project 1](https://github.com/username/project1)** – Aplikasi [deskripsi singkat, misal: "e-commerce dengan AI recommendation"]. *⭐ 500+ stars*
-  ![Screenshot](https://via.placeholder.com/800x400?text=Project+1+Demo) <!-- Ganti dengan screenshot asli -->
+**Weekday (Kantor)** → C# • .NET 8/9 • WinUI 3 • WPF • SQLite • USB Camera  
+**Saturday Night Fever** → Next.js 16 & React • TypeScript • Tailwind • Drizzle • Vercel • ShadCN  
+**Tools sehari-hari** → Git • Docker • Cursor • Visual Studio & Code • GitHub Copilot • Kopi tubruk
 
-- **[Nama Project 2](https://github.com/username/project2)** – Tool [deskripsi, misal: "CLI untuk automate deployment"]. *Built with Rust & love*
-  
-- **[Nama Project 3](https://github.com/username/project3)** – [Deskripsi, misal: "Open-source dashboard analytics"]. *Kontribusi welcome!*
+## 🔥 Project Sabtu Malam (Next.js Series)
 
-Lihat semua di [GitHub Repos](https://github.com/username?tab=repositories).
+- **[Kamus KBLI Digital](https://github.com/cecepazhar/kamus-kbli)** – Offline-first + fitur donasi
+- **[Absensi RFID Dashboard](https://github.com/cecepazhar/absensi-rfid)** – Next.js + C# backend
 
-## 📈 GitHub Stats
+Semua project Sabtu malam pakai label `saturday-project` biar gampang dicari!
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&border_color=30363D&title_color=F0F6FC&text_color=F0F6FC)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark&hide_border=true)
-
-## 🎯 Saat Ini Sedang...
-
-- 🔄 Belajar [misal: "Rust untuk system programming"]
-- 💻 Bekerja di [misal: "project freelance untuk fintech app"]
-- 📚 Membaca [misal: ""Clean Code" by Robert C. Martin"]
-- 🏆 Target: [misal: "Reach 1k GitHub stars di 2026"]
-
-## 🤝 Mari Kolab!
-
-Mau diskusi project, cari mentor, atau sekadar chit-chat soal tech?  
-- 📧 Email: [email@domain.com](mailto:email@domain.com)  
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
-- 🐦 Twitter/X: [@username](https://twitter.com/username)  
-- 🌐 Website: [username.dev](https://username.dev)  
-
-**P.S.: Saya suka pull request yang rapi dan coffee virtual! ☕**
-
----
+## 📊 GitHub Stats (hanya Sabtu malam yang bikin grafik naik 😄)
 
 <div align="center">
 
-**Terima kasih udah mampir! Star ⭐ kalau suka, atau fork buat inspirasi.**  
-*"Code seperti hidup: debug hari ini, deploy besok." – [Nama Kamu]*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cecepazhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecepazhar&layout=compact&theme=tokyonight"/>
 
-![Footer](https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cecepazhar&theme=tokyonight"/>
+
+<!-- Snake cuma gerak tiap Sabtu malam -->
+<img src="https://github.com/cecepazhar/cecepazhar/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+## 🎯 Target 2026
+
+- 1 project Next.js baru tiap 2 minggu (hanya Sabtu malam)
+- Bikin 1 aplikasi open-source yang dipakai umkm di Indonesia
+- Tetap punya waktu Minggu penuh buat anak-anak dan istri
+
+## 🤝 Mau Kolab?
+
+Kalau proyeknya bermanfaat & halal, aku siap bantu (khususnya Sabtu malam atau weekday setelah jam kantor).
+
+- 📧 cecep@fathforce.com
+- 💼 [linkedin.com/in/cecepazhar](https://www.linkedin.com/in/cecepazhar)
+
+<div align="center">
+
+**Keseimbangan itu nyata:**  
+Kerja serius Senin–Jumat ✓  
+Ngoding passion Sabtu - malam ✓  
+Minggu buat keluarga 100% ✓
+
+Terima kasih sudah mampir! Kalau suka, kasih ⭐ ya.  
+Doa terbaik buat kamu dan keluarga juga 🤲
 
 </div>
